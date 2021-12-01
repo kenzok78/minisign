@@ -50,7 +50,7 @@ minisign for OpenWrt
    软件包本身并不包含配置文件
 
   [1]: https://github.com/jedisct1/minisign
-  [2]: https://github.com/peter-tank/openwrt-minisign/releases/latest
-  [B]: https://img.shields.io/github/release/peter-tank/openwrt-minisign.svg
+  [2]: https://github.com/jedisct1/minisign/releases/latest
+  [B]: https://img.shields.io/github/release/jedisct1/minisign.svg
   [3]: https://github.com/peter-tank/luci-app-dnscrypt-proxy
   [S]: https://wiki.openwrt.org/doc/howto/obtain.firmware.sdk
